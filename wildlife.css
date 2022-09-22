@@ -1,0 +1,93 @@
+.grid-container {display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #6351b1;
+   padding-left: 30px;
+padding-top: 30px;}
+
+.grid-item-one p{ color: white;}
+.grid-item-one,p,font{font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;}
+
+.grid-item-two button{padding: 10px;
+    text-align: left;
+width: 400px;
+background-color: #9c91ca;
+color: whitesmoke;}
+.grid-item-two i {float: right;
+}
+
+.grid-item-three button{ background-color:#9c91ca ;
+    padding: 10px;
+color: whitesmoke;}
+.grid-containerr{display: grid;
+           grid-template-columns: auto auto auto;}
+.grid-item-four  ,li{padding: 5px;
+padding-left: 30px;}
+.first{font-weight: bold;
+font-size: 20px;}
+.grid-item-four ul li a {color: black;
+    text-decoration: none;}
+.grid-item-four a:hover{color:#9c91ca;}
+.grid-item-five p a{ display: inline-block;
+text-decoration: none;
+color: black;}
+.grid-item-five a:hover{text-decoration: underline;}
+.grid-item-five{ padding-left: 20px;}
+h2{font-size: 30px;
+color: rgb(22, 6, 37);
+font-weight: bold;}
+.color {color: black;}
+.main  a:hover{text-decoration: none;}
+.mmain  a {text-decoration: underline;}
+.tiger {background-color: gray;
+padding: 80px;
+padding-right: 50px;
+margin-right: 30px;}
+.pp{font-size: 20px;}
+.second{ font-weight: bolder;
+    font-size: 30px}
+.grid-item-six {padding-right: 40px;}
+.grey{background-color: rgb(233, 227, 227);
+padding: 20px;
+margin-top: 50px;
+}
+.grey input {text-align: center;
+padding: 10px;}
+.grey button {width:180px;
+background-color: rgb(143, 143, 201);
+color: white;
+padding: 10px;}
+.image-two button{margin-left: 40px;
+    padding-bottom: 85px;
+background-color: black;
+color: white;
+text-decoration: underline;
+padding: 10px;
+}
+.image-two a:hover{ background-color: gray;
+color: white;}
+.last{background-color: rgb(5, 5, 58);
+}
+.white{color: white;
+margin-top: 0px;
+padding-top: 20px;}
+.l-last{text-align: center;}
+.last-links a{ text-align: center;
+text-decoration: none;
+color: wheat;
+}
+.last-links a:hover{ text-decoration: underline; }
+.break{word-spacing: 8px;
+    padding-bottom: 20px;
+}
+.style{flex: 50%;
+    padding: 0 4px;}
+    .grid-containerrr {
+        display: grid;
+        grid-template-columns: auto auto ;
+        grid-gap: 10px;
+        
+        padding: 10px;}
+        .grid-containerrr > div img{width: 100%;
+       
+        }
